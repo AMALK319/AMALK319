@@ -8,11 +8,24 @@
 
 <br>
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+💻 I'm a Software Engineer 
+   INPT Graduate
+   I’m currently Software Engineer Intern at HPS-Hihtech Payment Systems
+🕸️ For more Details check my Portfolio Website <a href="">Here!<a>
+
+<br><br>
+
  😃 Welcome To my Profile 
  
- 💻 I'm a Software Engineer 
  
- 🕸️ For more Details check my Portfolio Website <a href="">Here!<a>
+ 
+
  
 
 
