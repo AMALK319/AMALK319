@@ -16,7 +16,7 @@
 
 💻 I'm a Software Engineer 
 
-📚 INPT Graduate Student
+📚 <a href="http://www.inpt.ac.ma/">INPT</a> Graduate Student
    
 ⚡ Blockchain Enthusiast
    
