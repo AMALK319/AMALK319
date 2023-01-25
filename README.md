@@ -16,9 +16,11 @@
 
 💻 I'm a Software Engineer 
 
-   INPT Graduate
+📚 INPT Graduate Student
    
-   I’m currently Software Engineer Intern at HPS-Hihtech Payment Systems
+⚡ Blockchain Enthusiast
+   
+🔭 I’m currently Software Engineer Intern at HPS-Hihtech Payment Systems
    
 🕸️ For more Details check my Portfolio Website <a href="">Here!<a>
 
