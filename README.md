@@ -27,19 +27,7 @@
 <br><br>
 
 
- 
- 
- 
 
- 
-
-## **📫 Where to find me**
- 
-<p><a href="https://github.com/AMALK319" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/amal-kalim-4648951b4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:kalimamal07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" /></a>
-</p>
-
- <br><br>
-  <!--
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -94,7 +82,19 @@
 -----
 
 <br>
--->
+
+
+ 
+ 
+
+ 
+
+## **📫 Where to find me**
+ 
+<p><a href="https://github.com/AMALK319" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/amal-kalim-4648951b4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:kalimamal07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" /></a>
+</p>
+
+ <br><br>
 
 <!--
 **AMALK319/AMALK319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
