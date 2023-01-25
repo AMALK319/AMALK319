@@ -1,7 +1,9 @@
-### Hi! I'm Amal! 👋
+## Hi! I'm Amal! 👋
 
  💻 I'm a Software Engineer 
+ 
  🕸️ For more Details check my Portfolio Website <a href="">Here!<a>
+ 
  😃 Welcome To my Profile 
 
 
