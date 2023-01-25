@@ -1,8 +1,9 @@
 ### Hi! I'm Amal! 👋
 
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Amal 👋 I'm a 💻 Software Enginner 💻 Welcome To my Profile ❤️">
-</p>
+ 💻 I'm a Software Engineer 
+ 🕸️ For more Details check my Portfolio Website <a href="">Here!<a>
+ 😃 Welcome To my Profile 
+
 
 
 <h3>📫 Where to find me</h3>
