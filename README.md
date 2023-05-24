@@ -10,15 +10,11 @@
 
 <br>
 
-💻 I'm a Software Engineer 
+👋 Hi there! I'm Amal Kalim, a passionate third-year software engineering student at <a href="http://www.inpt.ac.ma/">INPT</a>. 
+💻 Currently, I'm making the most of my skills and enthusiasm as an intern at <a href="https://www.hps-worldwide.com/"> HPS.
+💡  Always eager to learn and grow, I actively seek opportunities to stay up-to-date with the latest industry trends.
+📚 When I'm not coding, you can find me learning spanish language or indulging my passion for 🎥cinema and exploring the world of acting.
 
-📚 <a href="http://www.inpt.ac.ma/">INPT</a> Student
-   
-⚡ Blockchain Enthusiast
-   
-🔭 I’m currently Software Engineer Intern at <a href="https://www.hps-worldwide.com/">HPS <a>(Hightech Payment Systems)
-   
-🕸️ For more Details check my Portfolio Website <a href="https://kalimamalportfolio.azurewebsites.net/">Here!<a>
 
 <br>
 
