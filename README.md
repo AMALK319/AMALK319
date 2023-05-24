@@ -11,12 +11,12 @@
 <br>
 
 👋Hi there! I'm Amal Kalim, a passionate third-year software engineering student at <a href="http://www.inpt.ac.ma/">INPT</a>. 
-<br>
+<br><br>
 💻Currently, I'm making the most of my skills and enthusiasm as an intern at <a href="https://www.hps-worldwide.com/"> HPS</a>.
-<br>
+<br><br>
 💡Always eager to learn and grow, I actively seek opportunities to stay up-to-date with the latest industry trends.
-<br>
-📚When I'm not coding, you can find me learning spanish language or indulging my passion for 🎥cinema and exploring the world of acting.
+<br><br>
+🎥When I'm not coding, you can find me learning spanish language or indulging my passion for cinema and exploring the world of acting.
 
 
 <br>
