@@ -9,14 +9,13 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-
-👋Hi there! I'm Amal Kalim, a passionate third-year software engineering student at <a href="http://www.inpt.ac.ma/">INPT</a>. 
+👋 Hi there! I'm Amal Kalim,
 <br><br>
-💻Currently, I'm making the most of my skills and enthusiasm as an intern at <a href="https://www.hps-worldwide.com/"> HPS</a>.
+🕵‍♀️ Detail-oriented Project Engineer at HPS.
 <br><br>
-💡Always eager to learn and grow, I actively seek opportunities to stay up-to-date with the latest industry trends.
+🔧 Dedicated to optimizing processes and pushing boundaries.
 <br><br>
-🎥When I'm not coding, you can find me learning spanish language or indulging my passion for cinema and exploring the world of acting.
+🌟 Committed to seeing projects through to successful completion.
 
 
 <br>
